@@ -2,6 +2,7 @@
 
 Synthiscape is an advanced, single-file Python project that procedurally generates massive, fully explorable worlds in real time.
 Built with Pygame, NumPy, and optional Numba acceleration, it’s designed for both tech enthusiasts and curious players who love watching a world take shape from pure math.
+[Play Synthiscape](https://bleu-manatee.itch.io/synthiscape)
 
 # 🌍 Features
 
